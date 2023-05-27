@@ -5,6 +5,14 @@ MVVM architecture pattern, where the business logic and state management are han
 ViewModel, and the UI is managed by the View. The app utilizes the provider package for managing
 state and data flow between the ViewModel and the View.
 
+<p align="center">
+<img src="/screenshot/ios_1.png" width="150"/>
+<img src="/screenshot/ios_2.png" width="150"/>
+ <img src="/screenshot/android_1.png" width="150"/>
+<img src="/screenshot/android_2.png" width="150"/>
+<img src="/screenshot/android_3.png" width="150"/>
+</p>
+
 ## Architecture
 
 The MVVM (Model-View-ViewModel) architecture pattern separates the concerns of the app into three
